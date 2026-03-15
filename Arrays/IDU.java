@@ -1,4 +1,4 @@
-package Arrays.BasicOperations;
+
 
 class IDU {
     public static void main(String[] args) {

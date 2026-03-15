@@ -1,4 +1,4 @@
-package Arrays.BasicOperations;
+
 
 public class MinMaxArray {
     public static void main(String[] args) {
